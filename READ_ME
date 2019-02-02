@@ -1,0 +1,9 @@
+Projet PHP de l'élève LE TRUNG Fabien de la L3 MIAGE classique.
+J'ai ajouté comme fonctionnalité : supprimer un monstre.
+
+Concernant le code, tout fonctionne mais j'aurai pu optimiser certaines choses : par exemple ajouter un numéro d'ID aux monstres afin d'avoir
+des fonctions d'ajout/suppression etc... plus simples à mettre en place et qui éviteraient pas mal d'erreurs je pense, cependant je ne savais pas si je pouvais changer cela.
+En effet ici je supprime via le nom du monstre, mais si 2 monstres ont tous les deux le même nom, et que j'en supprime un, alors les deux seront supprimés de ma base de données.
+C'est assez simple à fix en ajoutant un ID mais voilà je n'étais pas sûr. J'espère que vous ne m'en tiendrez pas trop rigueur autrement.
+
+Cordialement, LE TRUNG Fabien
